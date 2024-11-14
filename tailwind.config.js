@@ -9,17 +9,15 @@ export default {
       lightgrey: "#737373",
       darkblue: "#252B42",
       emerald: "#23856D",
-      
     },
     extend: {
       textColor: ["visited"],
       backgroundColor: ["active", "disabled", "checked"],
       borderColor: ["active", "disabled", "checked", "focused"],
       backgroundImage: {
-        firstshow: "url(./src/assets/images/firstshow/asideimg.png)",
+        firstshow: "url(/src/assets/images/firstshow/asideimg.png)",
       },
     },
   },
   plugins: [],
 };
-
