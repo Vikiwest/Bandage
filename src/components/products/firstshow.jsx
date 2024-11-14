@@ -1,6 +1,6 @@
 import React from "react";
-import ChevronLeft from "../../assets/images/firstshow/chevronleft.svg";
-import ChevronRight from "../../assets/images/firstshow/chevronright.svg";
+import ChevronLeft from "../../components/icons/chevronleft";
+import ChevronRight from "../../components/icons/chevronright";
 import Productcard from "../cards/productcard";
 import { products } from "../data/products";
 
