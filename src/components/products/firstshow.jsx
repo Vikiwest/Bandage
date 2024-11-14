@@ -25,8 +25,6 @@ function Firstshow() {
           </div>
 
           <div className="flex w-4/6  justify-between gap-5">
-
-
             <ul className="flex  gap-10 items-center font-bold">
               <li className="text-brandblue">Men</li>
               <li className="text-lightgrey">Women</li>
