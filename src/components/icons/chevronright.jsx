@@ -2,7 +2,7 @@ import React from 'react'
 
 function ChevronRight() {
   return (
-    <div>
+   
       <svg width="50" height="49" viewBox="0 0 50 49" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect x="0.571411" y="0.5" width="48.1429" height="48" rx="24" stroke="#737373"/>
 <g clip-path="url(#clip0_1_1016)">
@@ -14,7 +14,7 @@ function ChevronRight() {
 </clipPath>
 </defs>
 </svg>
-    </div>
+    
   )
 }
 
